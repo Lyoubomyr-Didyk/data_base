@@ -14,7 +14,7 @@ CREATE TABLE users (
                        email VARCHAR (40) NOT NULL ,
                        address TEXT,
                        postal_code TEXT,
-                       city TEXT NOT NULL ,
+                       city TEXT NOT NULL,
                        country TEXT NOT NULL
 );
 
